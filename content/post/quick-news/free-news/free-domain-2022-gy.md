@@ -3,7 +3,7 @@ title: 赚米！硅云新用户限时免费顶级域名
 slug: quick-news-2022-guiyun
 date: 2022-12-05 00:00:00+0000
 categories:
-    - 急速快讯
+    - 最新快讯
 tags:
     - 免费小报
 ---
